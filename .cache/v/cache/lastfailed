@@ -1,0 +1,9 @@
+{
+  "test_private_Newtons_Method_sol.py::test_Newtons_Convergence[1-func1-func_prime1-1.0]": true, 
+  "test_private_Newtons_Method_sol.py::test_Newtons_Convergence[2-func2-func_prime2-1.0]": true, 
+  "test_private_Newtons_Method_sol.py::test_Newtons_Convergence[3-func3-func_prime3-2.0]": true, 
+  "test_private_Newtons_Method_sol.py::test_Newtons_Convergence[4-func4-func_prime4--2.0]": true, 
+  "test_private_Newtons_Method_sol.py::test_Newtons_Convergence[5-func5-func_prime5-1.0]": true, 
+  "test_private_Newtons_Method_sol.py::test_Newtons_Convergence[6-func6-func_prime6-1.0]": true, 
+  "test_private_Newtons_Method_sol.py::test_Newtons_Convergence[7-func7-func_prime7-0.0]": true
+}
